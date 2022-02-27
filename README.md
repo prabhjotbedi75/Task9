@@ -1,5 +1,6 @@
 # Task9
 Create two linux VMs on local
+
 1.setup one host as a salt-master
 
 2.setup other host as a salt-minion
